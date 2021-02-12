@@ -1,0 +1,25 @@
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\webcam Aforge.exe.config
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\webcam Aforge.exe
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\webcam Aforge.pdb
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.dll
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.Imaging.dll
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.Math.dll
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.Video.dll
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.xml
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.Imaging.xml
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.Math.xml
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.Video.xml
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam Aforge.csprojAssemblyReference.cache
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam_Aforge.Form1.resources
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam_Aforge.Properties.Resources.resources
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam Aforge.csproj.GenerateResource.cache
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam Aforge.csproj.CoreCompileInputs.cache
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam Aforge.csproj.CopyComplete
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam Aforge.exe
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam Aforge.pdb
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\webcam Aforge.exe.manifest
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\bin\Debug\webcam Aforge.application
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam Aforge.exe.manifest
+C:\Users\KAPAPA\source\repos\webcam Aforge\webcam Aforge\obj\Debug\webcam Aforge.application
