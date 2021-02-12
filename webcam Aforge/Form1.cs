@@ -59,6 +59,7 @@ namespace webcam_Aforge
             
             videoCapture.SignalToStop();
             videoCapture.Stop();
+            pictureBox1.Image = pbxImage.Image;
         }
     }
 }

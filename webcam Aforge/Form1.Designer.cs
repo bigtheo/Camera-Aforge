@@ -34,9 +34,11 @@
             this.button1 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pbxImage)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // BtnStart
@@ -52,10 +54,10 @@
             // pbxImage
             // 
             this.pbxImage.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.pbxImage.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pbxImage.Dock = System.Windows.Forms.DockStyle.Left;
             this.pbxImage.Location = new System.Drawing.Point(0, 0);
             this.pbxImage.Name = "pbxImage";
-            this.pbxImage.Size = new System.Drawing.Size(306, 249);
+            this.pbxImage.Size = new System.Drawing.Size(306, 255);
             this.pbxImage.TabIndex = 1;
             this.pbxImage.TabStop = false;
             // 
@@ -65,7 +67,7 @@
             this.cbxWebCam.FormattingEnabled = true;
             this.cbxWebCam.Location = new System.Drawing.Point(0, 0);
             this.cbxWebCam.Name = "cbxWebCam";
-            this.cbxWebCam.Size = new System.Drawing.Size(306, 21);
+            this.cbxWebCam.Size = new System.Drawing.Size(643, 21);
             this.cbxWebCam.TabIndex = 2;
             // 
             // button1
@@ -74,7 +76,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 33);
             this.button1.TabIndex = 3;
-            this.button1.Text = "Stop";
+            this.button1.Text = "capture";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
@@ -83,28 +85,40 @@
             this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.BtnStart);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel1.Location = new System.Drawing.Point(0, 270);
+            this.panel1.Location = new System.Drawing.Point(0, 276);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(306, 48);
+            this.panel1.Size = new System.Drawing.Size(643, 42);
             this.panel1.TabIndex = 4;
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.pictureBox1);
             this.panel2.Controls.Add(this.pbxImage);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel2.Location = new System.Drawing.Point(0, 21);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(306, 249);
+            this.panel2.Size = new System.Drawing.Size(643, 255);
             this.panel2.TabIndex = 5;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Right;
+            this.pictureBox1.Location = new System.Drawing.Point(337, 0);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(306, 255);
+            this.pictureBox1.TabIndex = 2;
+            this.pictureBox1.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(306, 318);
+            this.ClientSize = new System.Drawing.Size(643, 318);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.cbxWebCam);
+            this.MinimumSize = new System.Drawing.Size(659, 357);
             this.Name = "Form1";
             this.Text = "Form1";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
@@ -112,6 +126,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pbxImage)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -124,6 +139,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
